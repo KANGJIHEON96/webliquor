@@ -1,3 +1,6 @@
+# 항해99 첫 번째 프로젝트 
+8조: 이동은, 강지헌, 조현민
+
 # Name: Catalina Pradilla Rocha
 
 # GitHub page: 
